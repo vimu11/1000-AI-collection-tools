@@ -213,6 +213,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [BotGPT](https://t.me/BotGPT_bot) | Telegram GPT Bot. | Telegram bot that allows fast and intuitive access to GPT, Saves your history, and is available from your phone or desktop. Cool features are upcoming. | :white_check_mark: |
 | [Chai](http://chai.ml) | Chai - Chat With AI. | Chai is THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users. | :grey_question: |
 | [ChatGPT](http://chat.openai.com) | Apowerful Language Model for Text Generation and Understanding. | . | :white_check_mark: |
+| [ChatGBT](http://chatgbt.us) | ChatGBT is a powerful artificial intelligence (AI) chatbot. | . | :white_check_mark: |
 | [Context Search](http://addcontext.xyz) | Context - AI-Powered Audio & Video Chatbots. | . | :grey_question: |
 | [HUMATA](https://www.humata.ai/) | ChatGPT for Your Files. | Learn 100X Faster, Create Reports 100X Faster, Analyze Legal Documents 100X Faster, Understand Technical Papers 100X Faster. Ask Questions & Get Answers About Any File Instantly. | :white_check_mark: |
 | [Keepi](https://www.keepi.ai/) | AI Over WhatsApp. | Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge. | :white_check_mark: |
